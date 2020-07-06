@@ -1,0 +1,101 @@
+#mockup {
+  width: 300px;
+  height: 364px;
+  background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-yu-3-21/master/1.The-Field/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/complex/complex.01.png?token=ANMEXTJUHAP3RYIR35AVHQS7BRAKM);
+  position: absolute;
+  top: 196px;
+  left: 616px;
+  opacity: 0.1;
+  z-index: 10;
+  pointer-events: none;
+}
+
+body {
+  background-color: black;
+}
+
+.widget {
+  background-color: white;
+  width: 300px;
+  height: 364px;
+  margin-top: 196px;
+  margin-left: 610px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  width: 298px;
+  height: 216px;
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
+  display: block;
+}
+
+h3 {
+  font-size: 14px;
+  padding-left: 24px;
+  padding-top: 6px;
+}
+
+.left {
+  margin-top: 1px;
+  float: left;
+  padding-left: 20px;
+  color: #BCBCBC;
+  font-size: 13px;
+}
+
+.right {
+  margin-top: 1px;
+  float: right;
+  padding-right: 30px;
+  color: #BCBCBC;
+  font-size: 13px;
+}
+
+.box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  padding-left: 24px;
+  bottom: 150px;
+}
+
+h4 {
+  font-size: 11px;
+  text-align: center;
+  padding-right: 5px;
+  position: relative;
+  margin-top: 10px;
+}
+
+i {
+  font-size: 25px;
+  padding-right: 10px;
+}
+
+button {
+  height: 18px;
+  font-size: 8px;
+  text-align: center;
+  border-radius: 50px;
+  bottom: 0;
+  color: white;
+  border: none;
+}
+
+.red {
+  background-color: #FF4F4F;
+}
+
+.blue {
+  background-color: #8055EE;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.green {
+  background-color: #9DD1D5;
+}
+/*# sourceMappingURL=style.css.map */
