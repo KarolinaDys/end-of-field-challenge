@@ -1,0 +1,56 @@
+#mockup {
+  width: 238px;
+  height: 197px;
+  background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-yu-3-21/master/1.The-Field/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.07.png?token=ANMEXTIFUVOLJDLXGD25OBC7BQEWI);
+  position: absolute;
+  top: 252px;
+  left: 647px;
+  opacity: 0;
+  z-index: 10;
+  pointer-events: none;
+}
+
+body {
+  background-color: black;
+}
+
+.widget {
+  background-color: white;
+  width: 238px;
+  height: 197px;
+  margin-top: 252px;
+  margin-left: 647px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.widget p {
+  color: #5C777B;
+  padding-top: 15px;
+  padding-left: 12px;
+  font-size: 19px;
+  font-weight: 1000;
+}
+
+.widget .cointener {
+  position: relative;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.widget .cointener h5 {
+  color: #436367;
+  font-size: 18px;
+  padding-left: 11px;
+}
+
+.widget .box {
+  display: inline;
+  padding-bottom: 20px;
+}
+
+.widget .box i {
+  color: #2B4C52;
+  font-size: 21px;
+  padding-left: 12px;
+}
+/*# sourceMappingURL=style.css.map */
