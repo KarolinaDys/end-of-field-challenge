@@ -59,15 +59,17 @@ h3 {
   display: flex;
   position: absolute;
   padding-left: 24px;
-  bottom: 150px;
+  bottom: 145px;
 }
 
-h4 {
+h5 {
   font-size: 11px;
-  text-align: center;
-  padding-right: 5px;
-  position: relative;
+  padding-right: 10px;
   margin-top: 10px;
+}
+
+h5 span {
+  color: #BCBCBC;
 }
 
 i {
