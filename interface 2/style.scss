@@ -1,13 +1,13 @@
 #mockup {
     width: 722px;
     height: 708px;
-    background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-yu-3-21/master/1.The-Field/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.04.png?token=ANMEXTJGQU4CM6GF3BCE64S7BQSYG);
+    background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-yu-3-21/master/1.The-Field/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.04.png?token=ANMEXTIDUKKRCTOBLJPCGSS7C2QTE);
     
     position: absolute;
     top: 0;
     left: 396px;
     
-    opacity: 0;
+    opacity: 0.2;
     z-index: 10;
     pointer-events: none;
   }
@@ -56,7 +56,7 @@
             padding: 0 97px;
             font-weight: 700;
         }
-        h5{
+        .last{
             text-align: center;
             color: #D3D3D3;
             font-size: 10px;
