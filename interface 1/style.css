@@ -1,11 +1,11 @@
 #mockup {
   width: 238px;
   height: 197px;
-  background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-yu-3-21/master/1.The-Field/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.07.png?token=ANMEXTIFUVOLJDLXGD25OBC7BQEWI);
+  background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-yu-3-21/master/1.The-Field/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.07.png?token=ANMEXTLW3SC5OGFO4MX765K7C2NIA);
   position: absolute;
   top: 252px;
   left: 647px;
-  opacity: 0;
+  opacity: 0.2;
   z-index: 10;
   pointer-events: none;
 }
@@ -19,17 +19,17 @@ body {
   width: 238px;
   height: 197px;
   margin-top: 252px;
-  margin-left: 640px;
+  margin-left: 643px;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.widget p {
+.widget .city {
   color: #5C777B;
-  padding-bottom: 4px;
   padding-top: 15px;
-  padding-left: 14px;
-  font-size: 18px;
+  padding-left: 11px;
+  font-size: 17px;
   font-weight: 400;
+  padding-top: 18px;
 }
 
 .widget .cointener {
@@ -38,11 +38,12 @@ body {
   padding-top: 0;
 }
 
-.widget .cointener h5 {
+.widget .adres {
+  padding-top: 12px;
   color: #436367;
-  font-size: 18px;
-  padding-left: 15px;
-  font-weight: 700;
+  font-size: 16px;
+  padding-left: 12px;
+  font-weight: 800;
 }
 
 .widget .box {
@@ -51,8 +52,9 @@ body {
 }
 
 .widget .box i {
+  padding-top: 13px;
   color: #2B4C52;
-  font-size: 22px;
-  padding-left: 14px;
+  font-size: 21px;
+  padding-left: 13px;
 }
 /*# sourceMappingURL=style.css.map */
