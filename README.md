@@ -3,7 +3,7 @@
 
 * Interface#1 [See website][Address1]* Simple 0.7
 
-[Address1]: https://angry-archimedes-98731a.netlify.app/
+[Address1]: https://sharp-jennings-54cd19.netlify.app/
 
 * Interface#2 [See website][Address2]* Simple 0.4
 
